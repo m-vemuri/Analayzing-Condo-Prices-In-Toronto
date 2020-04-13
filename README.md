@@ -4,7 +4,7 @@ This jupyter notebook outlines some of the analysis conducted on condominium sal
 
 ## Dataset
 
-The dataset was obtained by scraping an MLS Site for recently sold housees and joined with the [City of Toronto's open data set for Economics and Safety](https://open.toronto.ca/dataset/wellbeing-toronto-economics/)
+The dataset was obtained by scraping an MLS Site for recently sold housees and joined with the [City of Toronto's open data set for Economics and Safety](https://open.toronto.ca/dataset/wellbeing-toronto-economics/).
 The dataset has not been uploaded in the best interests of privacy. 
 
 ## Medium Article
