@@ -9,4 +9,4 @@ The dataset has not been uploaded in the best interests of privacy.
 
 ## Medium Article
 
-This repository is the full code for a medium article that I wrote. It can be found [here]()
+This repository is the full code for a medium article that I wrote. It can be found [here](https://medium.com/@m_vemuri/analyzing-condo-prices-in-toronto-using-python-2393607fafba)
